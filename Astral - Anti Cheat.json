@@ -1,1 +1,32 @@
-
+{
+    "assetsExclus": {
+        "rbxasset://fonts/families/Inconsolata.json": true,
+        "rbxasset://fonts/BuilderSans-ExtraBold.otf": true,
+        "rbxasset://fonts/Inconsolata-Regular.ttf": true,
+        "rbxassetid://12726021129": true
+    },
+    "motifsExclus": [
+        "rbxasset://textures/DevConsole/",
+        "rbxasset://textures/ui/",
+        "http://www.roblox.com/asset",
+        "rbxapp://",
+        "rbxasset://LuaPackages/Packages/_Index/FoundationImage",
+        "https://assetdelivery.roblox.com/v1/asset",
+        "rbxthumb://"
+    ],
+    "exploits": {
+        "rbxassetid://5054663650": "Infinity Yield",
+        "rbxassetid://5034718180": "Dex Explorer",
+        "rbxassetid://2708891598": "Owl Hub",
+        "rbxassetid://3554238678": "Open Gui",
+        "rbxassetid://169476802": "TurtleSpy",
+        "rbxassetid://6511490623": "OctoSpy",
+        "rbxassetid://3523728077": "RogueDZ",
+        "rbxassetid://12187365364": "Rayfield UI or Sirius",
+        "rbxassetid://2454009026": "Neptune Aimbot",
+        "rbxassetid://4384401360": "Neptune UI 'Voice Chat Francophone'",
+        "rbxasset://guivape.png": "VapeV4",
+        "rbxasset://guiv4.png": "VapeV4",
+        "rbxassetid://137842439297855": "JJSploit"
+    }
+}
